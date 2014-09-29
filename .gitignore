@@ -1,0 +1,7 @@
+.gitignore
+*.yml
+*.md
+composer.json
+application/logs/
+nbproject/
+NOTES.txt
