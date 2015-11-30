@@ -8,7 +8,7 @@
         </tr>
         <tr>
             <td>&nbsp;</td>
-            <td><?php echo Form::submit(null, 'Submit') ?> &nbsp; <a href="<?php echo URL::base(true, true).'teams'; ?>" />Cancel</td>
+            <td><?php echo Form::submit(null, 'Submit') ?> &nbsp; <a href="<?php echo URL::base(true, true).'teams'; ?>">Cancel</a></td>
         </tr>
     </table>
 <?php echo Form::close() ?>

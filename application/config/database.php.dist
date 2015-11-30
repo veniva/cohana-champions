@@ -18,9 +18,9 @@ return array
              *
              * Ports and sockets may be appended to the hostname.
              */
-            'hostname'   => 'localhost',
-            'database'   => 'cohana-champions',
-            'username'   => 'root',
+            'hostname'   => '',
+            'database'   => '',
+            'username'   => '',
             'password'   => FALSE,
             'persistent' => FALSE,
         ),

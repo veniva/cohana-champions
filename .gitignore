@@ -1,7 +1,8 @@
-.gitignore
 *.yml
 *.md
-composer.json
 application/logs/
 nbproject/
+.idea
 NOTES.txt
+desktop.ini
+vendor
